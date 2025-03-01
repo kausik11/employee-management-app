@@ -10,6 +10,7 @@ A **React-based** Employee Management App with authentication using **Clerk**, f
 - 🎨 **UI Components** styled with ShadCN UI
 - 💾 **Data Persistence** using localStorage
 - 📧 **Email Integration** via EmailJS
+- 🧧  **Alert message** Uisng Sweetalert
 
 ---
 
